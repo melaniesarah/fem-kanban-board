@@ -1,4 +1,4 @@
-{
+export const defaultState = {
   "id": "1",
   "title": "The One and Only Kanban Board",
   "lists": [
@@ -53,4 +53,4 @@
       "email": "m@marcgrabanski.com"
     }
   ]
-}
+};
